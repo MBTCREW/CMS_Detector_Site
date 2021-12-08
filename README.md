@@ -1,3 +1,14 @@
+### HOW TO INSTALL
+pkg update && upgrade
+pkg install python2
+pkg install git
+pkg install
+
+
+
+
+
+
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
