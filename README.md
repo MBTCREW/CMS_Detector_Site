@@ -1,8 +1,16 @@
 ### HOW TO INSTALL
+
 pkg update && upgrade
+
 pkg install python2
+
 pkg install git
-pkg install
+
+git clone https://github.com/MBTCREW/CMS_Detector_Site
+
+cd CMS_Detector_Site
+
+python2 Lawack.py
 
 
 
