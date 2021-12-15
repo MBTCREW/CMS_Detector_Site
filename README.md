@@ -1,4 +1,4 @@
-## Download nya di linl bawah ini
+## Download nya di link bawah ini
 
 https://cararegistrasi.com/2ShBfL
 
